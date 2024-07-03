@@ -1,8 +1,6 @@
 import {student, StudentType} from '../02/02';
 import {CityType, GovernmentBuildingsType, HousesType} from '../02/02_02';
 
-debugger
-
 export const sum = (a: number, b: number) => { // стрелочная функция, для callback
     return a + b;
 }
